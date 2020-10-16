@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Guimarães</h1>
 
 <p align="center">
-  Student of FullSatck-Developer.<br />
+  Student of FullStack-Developer.<br />
   <b>🚀🎼💻🌌🍕🌱</b>
 </p>
 
