@@ -1,12 +1,12 @@
 <h1 align="center">Felipe Guimarães</h1>
 
 <p align="center">
-  Student of FullStack-Developer.<br />
+  Student of Swift iOS.<br />
   <b>🚀🎼💻🌌🍕🌱</b>
 </p>
 
 <p align="center">
-  Node.js | ReactJS | React Native
+  Node.js | ReactJS | React Native | Swift
 </p>
 
 <p align="center">
@@ -42,7 +42,8 @@
 
 ## Sobre mim
 - Sou apaixonado por tecnologia!
-- Focado no desenvolvimento de software com direcionado na stack Javascript (React).
+- Atuando no desenvolvimento de software com direcionado na stack Javascript (React).
+- Migrando para o desenvolvimento iOS com Swift.
 
 ## Tecnologias
 - Desenvolvimento PL/SQL em **Oracle**
