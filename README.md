@@ -40,15 +40,10 @@
   </a>
 </p>
 
-## Sobre mim
-- Sou apaixonado por tecnologia!
-- Atuando no desenvolvimento de software com direcionado na stack Javascript (React).
-- Migrando para o desenvolvimento iOS com Swift.
-
 ## Tecnologias
 - Desenvolvimento PL/SQL em **Oracle**
 - Desenvolvimento de front-end usando **React.Js**
-- Desenvolvimento de back-end usando **Node.Js**
+- Desenvolvimento de back-end usando **Node.Js** e aprendendo **Java**
 - Desenvolvimento móvel usando **React Native**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=felipe2g&show_icons=true)
