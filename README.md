@@ -1,12 +1,7 @@
 <h1 align="center">Felipe Guimarães</h1>
 
 <p align="center">
-  Student of Swift iOS.<br />
   <b>🚀🎼💻🌌🍕🌱</b>
-</p>
-
-<p align="center">
-  Node.js | ReactJS | React Native | Swift
 </p>
 
 <p align="center">
