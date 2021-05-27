@@ -38,7 +38,7 @@
 ## Tecnologias
 - Desenvolvimento PL/SQL em **Oracle**
 - Desenvolvimento de front-end usando **React.Js**
-- Desenvolvimento de back-end usando **Node.Js** e aprendendo **Java**
-- Desenvolvimento móvel usando **React Native**
+- Desenvolvimento de back-end usando **Node.Js**
+- Desenvolvimento móvel usando **React Native e Swift**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=felipe2g&show_icons=true)
