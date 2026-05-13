@@ -1,5 +1,5 @@
 # Felipe Guimarães
 
-Software Engineer @TQI.
+Software Engineer @Pagbank.
 
 Enthusiast of the best development technologies.
